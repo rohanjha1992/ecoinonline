@@ -1,0 +1,9 @@
+Building ecoinonline
+
+See doc/readme-qt.rst for instructions on building ecoinonline QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ecoinonline.
+
+See doc/build-*.txt for instructions on building ecoinonlined,
+the intended-for-services, no-graphical-interface, reference
+implementation of ecoinonline.
