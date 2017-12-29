@@ -55,4 +55,7 @@ daemon=1
 
 10) Run the Coin Server using ./ecoinonlined command
 
+RPC port	21264
+P2P port	21263
+
 List of API call list can be found here : https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
