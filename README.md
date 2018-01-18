@@ -1,4 +1,31 @@
-ecoinonline (ECE) is a digital decentralised currency crafted by Genius Marketers involving Blockchain Technology
+ecoinonline (ECE) is a digital decentralised currency crafted by Genius Marketers involving Blockchain Technology.
+
+INFO :
+
+Algorithm : Scrypt
+
+Type : PoW/PoS
+
+Coin name : ecoinonline
+
+Coin abbreviation : ECE
+
+Address letter : E
+
+RPC port : 21264
+
+P2P port : 21263
+
+PoS percentage : 1% per year
+
+Coinbase maturity : 20 blocks
+
+Target spacing : 64 seconds
+
+Target timespan : 1 block
+
+Transaction confirmations : 6 blocks
+
 
 Installation
 ===========================
@@ -59,9 +86,6 @@ daemon=1
 
 10) Run the Coin Server using ./ecoinonlined command
 
-RPC port	21264
-
-P2P port	21263
 
 List of API call list can be found here : https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
 
