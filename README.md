@@ -1,8 +1,12 @@
-ecoinonline (ece) is a cryptocurrency.
+ecoinonline (ECE) is a digital decentralised currency crafted by Genius Marketers involving Blockchain Technology
 
 Installation
 ===========================
 
+The installation requires at least a VPS having 2 GB OF RAM, 2 CORE CPU AND 40GB HDD with UBUNTU 16.04 installed on it. 
+
+Steps:
+ 
 1) Update your Ubuntu 16.04 machine.
 
 sudo apt-get update
@@ -59,3 +63,5 @@ RPC port	21264
 P2P port	21263
 
 List of API call list can be found here : https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list
+
+For any kind of installation issue email at : info@ecoinonline.org
