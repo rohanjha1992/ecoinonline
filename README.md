@@ -1,5 +1,9 @@
 ecoinonline (ECE) is a digital decentralised currency crafted by Genius Marketers involving Blockchain Technology.
 
+Coin Site : https://ecoinonline.info/
+
+Block Explorer : http://ecoinonlineexplorer.com/
+
 INFO :
 
 Algorithm : Scrypt
