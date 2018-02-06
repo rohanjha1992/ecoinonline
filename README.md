@@ -56,9 +56,11 @@ git clone https://github.com/rohanjha1992/ecoinonline.git
 
 cd ecoinonline/src
 
-5)  Make build_detect_platform is executable.
+5)  Make build_detect_platform is executable and create obj directory
 
 chmod +x leveldb/build_detect_platform
+
+mkdir obj
 
 6) Execute the following command to compile the daemon.
 
