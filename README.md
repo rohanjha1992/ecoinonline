@@ -56,11 +56,14 @@ git clone https://github.com/rohanjha1992/ecoinonline.git
 
 cd ecoinonline/src
 
-5)  Make build_detect_platform is executable and create obj directory
+5)  Now Run the following commands
 
 chmod +x leveldb/build_detect_platform
 
 mkdir obj
+
+mkdir -p obj/zerocoin
+
 
 6) Execute the following command to compile the daemon.
 
